@@ -8,8 +8,8 @@
 #include "network-uart.h"
 
 #define USB_UART_PORT_NUM UART_NUM_0
-#define USB_UART_TXD_PIN (43)
-#define USB_UART_RXD_PIN (44)
+#define USB_UART_TXD_PIN (17)
+#define USB_UART_RXD_PIN (18)
 #define USB_UART_BAUD_RATE (230400)
 #define USB_UART_RX_BUF_SIZE (1024)
 
